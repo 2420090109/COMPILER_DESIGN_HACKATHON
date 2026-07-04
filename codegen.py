@@ -1,0 +1,5 @@
+print("MOV R1, c")
+print("MUL R1, d")
+print("MOV R2, b")
+print("ADD R2, R1")
+print("MOV a, R2")
